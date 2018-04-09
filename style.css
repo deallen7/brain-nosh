@@ -1,0 +1,27 @@
+.bg-light {
+	background-color: #34495e !important;
+}
+
+.navbar-brand {
+	color: white !important;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+.navbar-toggler {
+	background-color: white !important;
+}
+
+.brain-nosh-home {
+	margin-top: 50px;	
+}
+
+.homepage-img {
+	height: 150px;
+	width: 150px;
+	border-radius: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
